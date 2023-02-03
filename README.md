@@ -1,5 +1,17 @@
 # Hey, I'm Matt 👋
 
+<a href="https://linkedin.com/in/m-c-hill">
+  <img align="left" alt="Matt's LinkedIn" target="_blank" width="22px" padding=5px src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://github.com/m-c-hill">
+  <img align="left" alt="Matt's Github" target="_blank" width="22px" padding=5px src="https://simpleicons.now.sh/github/495f7e" />
+</a>
+<a href="mailto: matthew.hill.925@gmail.com">
+  <img align="left" alt="Matt's Email" target="_blank" width="22px" padding=5px src="https://simpleicons.now.sh/gmail/495f7e" />
+</a>
+<br />
+<br />
+
 I'm a passionate backend developer based in London, currently working for [Prodigi](https://www.prodigi.com/), focusing primarily on Python development, using the [FastAPI](https://fastapi.tiangolo.com/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/) frameworks. In addition to my work, I am currently pursuing a part-time MSc in Computer Science through remote study with the [University of Bath](https://www.bath.ac.uk/).
 
 Currently learning Golang and Rust.
@@ -36,15 +48,3 @@ Take a look at my projects and feel free to reach out if you would like to colla
 <a href="http://www.github.com/m-c-hill"><img src="https://github-readme-stats.vercel.app/api?username=m-c-hill&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="m-c-hill's GitHub stats" /></a>
 
 <a href="http://www.github.com/m-c-hill"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-c-hill&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
-----
-<a href="https://linkedin.com/in/m-c-hill">
-  <img align="left" alt="Matt's LinkedIn" width="30px" padding=120 src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
-<a href="https://github.com/m-c-hill">
-  <img align="left" alt="Matt's Github" width="30px" padding=120 src="https://simpleicons.now.sh/github/495f7e" />
-</a>
-<a href="mailto: matthew.hill.925@gmail.com">
-  <img align="left" alt="Matt's Strava" width="30px" padding=120 src="https://simpleicons.now.sh/gmail/495f7e" />
-</a>
