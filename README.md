@@ -14,7 +14,7 @@
 
 I'm a passionate backend developer based in London, currently working for [Prodigi](https://www.prodigi.com/), focusing primarily on Python development, using the [FastAPI](https://fastapi.tiangolo.com/) and [Flask](https://flask.palletsprojects.com/en/2.2.x/) frameworks. I'm also pursuing a part-time MSc in Computer Science through remote study with the [University of Bath](https://www.bath.ac.uk/).
 
-I'm currently learning Golang and Rust in my spare time.
+I'm currently [learning Golang](https://github.com/m-c-hill/golang-webdev) and Rust in my spare time.
 
 Take a look at my projects and feel free to reach out if you would like to collaborate or have any questions.
 
