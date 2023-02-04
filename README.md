@@ -34,6 +34,7 @@ Take a look at my projects and feel free to reach out if you would like to colla
 ![docker](https://img.shields.io/static/v1?logo=docker&label=&message=docker&color=36465D&logoColor=AAA&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square)
 ![psql](https://img.shields.io/static/v1?logo=postgresql&label=&message=postgresql&color=36465D&logoColor=AAA&style=flat-square)
+![terraform](https://img.shields.io/static/v1?logo=terraform&label=&message=terraform&color=36465D&logoColor=AAA&style=flat-square)
 ![graphql](https://img.shields.io/static/v1?logo=graphql&label=&message=graphql&color=36465D&logoColor=AAA&style=flat-square)
 ![nginx](https://img.shields.io/static/v1?logo=nginx&label=&message=nginx&color=36465D&logoColor=AAA&style=flat-square)
 &nbsp;&nbsp;&nbsp;
