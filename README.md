@@ -43,9 +43,3 @@ Take a look at my projects and feel free to reach out if you would like to colla
 ![aws](https://img.shields.io/static/v1?logo=Amazon-AWS&label=&message=aws&color=36465D&logoColor=AAA&style=flat-square)
 ![heroku](https://img.shields.io/static/v1?logo=heroku&label=&message=heroku&color=36465D&logoColor=AAA&style=flat-square)
 ----
-
-
-
-<a href="http://www.github.com/m-c-hill"><img src="https://github-readme-stats.vercel.app/api?username=m-c-hill&show_icons=true&hide=contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="m-c-hill's GitHub stats" /></a>
-
-<a href="http://www.github.com/m-c-hill"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m-c-hill&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
